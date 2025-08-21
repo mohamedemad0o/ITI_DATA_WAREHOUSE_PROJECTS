@@ -1,0 +1,239 @@
+CONTINENTS,AIRPORT_CONTINENT,AIRPORT_COUNTRY_CODE,COUNTRY_NAME
+North America,NAM,US,United States
+North America,NAM,CA,Canada
+Europe,EU,FR,France
+South America,SAM,BR,Brazil
+Europe,EU,GB,United Kingdom
+Europe,EU,IT,Italy
+North America,NAM,MX,Mexico
+North America,NAM,PA,Panama
+Asia,AS,PK,Pakistan
+Africa,AF,ZA,South Africa
+South America,SAM,VE,"Venezuela, Bolivarian Republic of"
+Asia,AS,CN,China
+South America,SAM,CO,Colombia
+Africa,AF,MR,Mauritania
+Asia,AS,MM,Myanmar
+Africa,AF,ZM,Zambia
+Oceania,OC,WS,Samoa
+Oceania,OC,NC,New Caledonia
+Oceania,OC,PG,Papua New Guinea
+Africa,AF,KE,Kenya
+North America,NAM,GT,Guatemala
+Asia,AS,TW,"Taiwan, Province of China"
+Europe,EU,NO,Norway
+Asia,AS,LK,Sri Lanka
+Oceania,OC,PF,French Polynesia
+Asia,AS,NP,Nepal
+Africa,AF,SD,Sudan
+Asia,AS,JP,Japan
+Europe,EU,IS,Iceland
+Europe,EU,DE,Germany
+South America,SAM,PY,Paraguay
+Oceania,OC,VU,Vanuatu
+Asia,AS,KH,Cambodia
+Oceania,OC,AU,Australia
+Africa,AF,CG,Congo
+North America,NAM,CR,Costa Rica
+Europe,EU,PT,Portugal
+Africa,AF,MZ,Mozambique
+Europe,EU,RU,Russian Federation
+North America,NAM,KY,Cayman Islands
+Asia,AS,SA,Saudi Arabia
+South America,SAM,EC,Ecuador
+South America,SAM,AR,Argentina
+Africa,AF,CD,"Congo, The Democratic Republic of the"
+Europe,EU,UA,Ukraine
+Africa,AF,ET,Ethiopia
+Europe,EU,ES,Spain
+North America,NAM,DO,Dominican Republic
+Europe,EU,RO,Romania
+North America,NAM,NI,Nicaragua
+Europe,EU,EE,Estonia
+Asia,AS,KW,Kuwait
+Africa,AF,AO,Angola
+Africa,AF,LS,Lesotho
+Oceania,OC,NF,Norfolk Island
+Asia,AS,JO,Jordan
+Africa,AF,NG,Nigeria
+Africa,AF,UG,Uganda
+Oceania,OC,UM,United States Minor Outlying Islands
+Asia,AS,CY,Cyprus
+Oceania,OC,NR,Nauru
+Africa,AF,SL,Sierra Leone
+Africa,AF,SH,"Saint Helena, Ascension and Tristan da Cunha"
+North America,NAM,GP,Guadeloupe
+Africa,AF,GQ,Equatorial Guinea
+North America,NAM,BS,Bahamas
+Asia,AS,ID,Indonesia
+Africa,AF,BF,Burkina Faso
+Africa,AF,DZ,Algeria
+North America,NAM,HN,Honduras
+Asia,AS,VN,Viet Nam
+Africa,AF,CM,Cameroon
+Europe,EU,HR,Croatia
+Oceania,OC,NZ,New Zealand
+North America,NAM,CU,Cuba
+South America,SAM,PE,Peru
+Africa,AF,MG,Madagascar
+Asia,AS,IR,"Iran, Islamic Republic of"
+North America,NAM,DM,Dominica
+Asia,AS,MY,Malaysia
+Asia,AS,OM,Oman
+Asia,AS,RU,Russian Federation
+Asia,AS,SY,Syrian Arab Republic
+Asia,AS,MN,Mongolia
+South America,SAM,GY,Guyana
+South America,SAM,UY,Uruguay
+Africa,AF,SN,Senegal
+Africa,AF,CI,Côte d'Ivoire
+South America,SAM,FK,Falkland Islands (Malvinas)
+Oceania,OC,SB,Solomon Islands
+Africa,AF,ZW,Zimbabwe
+North America,NAM,GD,Grenada
+South America,SAM,CL,Chile
+North America,NAM,VI,"Virgin Islands, U.S."
+Oceania,OC,MH,Marshall Islands
+South America,SAM,SR,Suriname
+North America,NAM,PR,Puerto Rico
+Oceania,OC,WF,Wallis and Futuna
+Africa,AF,TZ,"Tanzania, United Republic of"
+Europe,EU,SI,Slovenia
+Oceania,OC,TO,Tonga
+Africa,AF,EG,Egypt
+Africa,AF,LY,Libya
+Africa,AF,MW,Malawi
+Africa,AF,CV,Cabo Verde
+Europe,EU,NL,Netherlands
+Asia,AS,MO,Macao
+Africa,AF,LR,Liberia
+Oceania,OC,KI,Kiribati
+Africa,AF,TG,Togo
+Asia,AS,YE,Yemen
+Asia,AS,AF,Afghanistan
+Africa,AF,RW,Rwanda
+Asia,AS,MV,Maldives
+Asia,AS,KR,"Korea, Republic of"
+Europe,EU,FO,Faroe Islands
+Europe,EU,LT,Lithuania
+Oceania,OC,FM,"Micronesia, Federated States of"
+Africa,AF,ER,Eritrea
+Asia,AS,TL,Timor-Leste
+Oceania,OC,FJ,Fiji
+Africa,AF,EH,Western Sahara
+Africa,AF,CF,Central African Republic
+Europe,EU,BE,Belgium
+Europe,EU,MT,Malta
+Africa,AF,TD,Chad
+Europe,EU,MK,North Macedonia
+Europe,EU,MD,"Moldova, Republic of"
+Europe,EU,BA,Bosnia and Herzegovina
+Asia,AS,UZ,Uzbekistan
+Asia,AS,AE,United Arab Emirates
+Asia,AS,KZ,Kazakhstan
+Europe,EU,IE,Ireland
+North America,NAM,TC,Turks and Caicos Islands
+North America,NAM,KN,Saint Kitts and Nevis
+Africa,AF,ST,Sao Tome and Principe
+Africa,AF,DJ,Djibouti
+Oceania,OC,CK,Cook Islands
+Africa,AF,GN,Guinea
+Asia,AS,HK,Hong Kong
+Africa,AF,BJ,Benin
+Asia,AS,AM,Armenia
+Oceania,OC,GU,Guam
+Asia,AS,CC,Cocos (Keeling) Islands
+Africa,AF,GM,Gambia
+Europe,EU,ME,Montenegro
+North America,NAM,BL,Saint Barthélemy
+Africa,AF,SC,Seychelles
+Africa,AF,GH,Ghana
+Africa,AF,MU,Mauritius
+Asia,AS,BT,Bhutan
+Europe,EU,LV,Latvia
+Asia,AS,LB,Lebanon
+Europe,EU,RS,Serbia
+Europe,EU,GG,Guernsey
+Asia,AS,GE,Georgia
+Africa,AF,YT,Mayotte
+Europe,EU,AD,Andorra
+Asia,AS,BH,Bahrain
+Asia,AS,IO,British Indian Ocean Territory
+Europe,EU,MC,Monaco
+North America,NAM,AW,Aruba
+Oceania,OC,PW,Palau
+South America,SAM,BO,"Bolivia, Plurinational State of"
+Asia,AS,IN,India
+Europe,EU,SK,Slovakia
+Europe,EU,SE,Sweden
+Europe,EU,BG,Bulgaria
+Africa,AF,BW,Botswana
+Europe,EU,PL,Poland
+Asia,AS,IL,Israel
+Africa,AF,MA,Morocco
+Europe,EU,GR,Greece
+Africa,AF,GA,Gabon
+Africa,AF,SO,Somalia
+Asia,AS,PH,Philippines
+Africa,AF,TN,Tunisia
+Asia,AS,TR,Turkey
+Europe,EU,HU,Hungary
+Asia,AS,LA,Lao People's Democratic Republic
+Asia,AS,EG,Egypt
+Oceania,OC,MP,Northern Mariana Islands
+Europe,EU,CH,Switzerland
+Europe,EU,AT,Austria
+Asia,AS,AZ,Azerbaijan
+Europe,EU,DK,Denmark
+Asia,AS,BD,Bangladesh
+Europe,EU,BY,Belarus
+Asia,AS,TM,Turkmenistan
+North America,NAM,MF,Saint Martin (French part)
+Asia,AS,PS,"Palestine, State of"
+Oceania,OC,TV,Tuvalu
+Europe,EU,CZ,Czechia
+North America,NAM,AG,Antigua and Barbuda
+Africa,AF,SS,South Sudan
+Europe,EU,GL,Greenland
+Asia,AS,IQ,Iraq
+North America,NAM,LC,Saint Lucia
+Africa,AF,BI,Burundi
+Asia,AS,QA,Qatar
+Africa,AF,RE,Réunion
+Africa,AF,SZ,Eswatini
+Asia,AS,KG,Kyrgyzstan
+North America,NAM,BM,Bermuda
+South America,SAM,GF,French Guiana
+Oceania,OC,AS,American Samoa
+North America,NAM,VG,"Virgin Islands, British"
+North America,NAM,HT,Haiti
+North America,NAM,SV,El Salvador
+Africa,AF,ML,Mali
+Africa,AF,NE,Niger
+North America,NAM,BQ,"Bonaire, Sint Eustatius and Saba"
+Europe,EU,LU,Luxembourg
+North America,NAM,VC,Saint Vincent and the Grenadines
+Africa,AF,KM,Comoros
+Asia,AS,TJ,Tajikistan
+Oceania,OC,NU,Niue
+North America,NAM,TT,Trinidad and Tobago
+North America,NAM,AI,Anguilla
+Europe,EU,IM,Isle of Man
+Asia,AS,CX,Christmas Island
+North America,NAM,PM,Saint Pierre and Miquelon
+Asia,AS,BN,Brunei Darussalam
+Europe,EU,JE,Jersey
+Asia,AS,KP,"Korea, Democratic People's Republic of"
+Europe,EU,GI,Gibraltar
+North America,NAM,SX,Sint Maarten (Dutch part)
+North America,NAM,MQ,Martinique
+Europe,EU,AL,Albania
+North America,NAM,MS,Montserrat
+North America,NAM,JM,Jamaica
+Asia,AS,TH,Thailand
+North America,NAM,BZ,Belize
+Europe,EU,FI,Finland
+Africa,AF,GW,Guinea-Bissau
+Europe,EU,TR,Turkey
+North America,NAM,BB,Barbados
+Asia,AS,SG,Singapore
